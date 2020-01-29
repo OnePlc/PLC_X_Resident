@@ -1,0 +1,15 @@
+docs_dir: docs/book
+site_dir: docs/html
+nav:
+  - Home: index.md
+  - Introduction: intro.md
+  - 'Quick Start': quick-start.md
+  - 'Dynamic Fields': dynamic-fields.md
+  - Tutorials:
+    - 'Create Module': create-module.md
+site_name: oneplace-resident
+site_description: "onePlace Application Resident Module"
+repo_url: 'https://github.com/OnePlc/PLC_X_Resident'
+theme: bootstrap4
+extra:
+  project: onePlc
